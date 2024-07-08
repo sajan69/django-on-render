@@ -41,7 +41,7 @@ django_render_demo/
 ## Local Development Setup
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/django_render_demo.git
+   git clone https://github.com/sajan69/django_render_demo.git
    cd django_render_demo
 
 2. Create and activate a virtual environment:
@@ -57,7 +57,7 @@ django_render_demo/
 5. Start the development server:
    python manage.py runserver
 
-6. Open your browser and navigate to `http://localhost:8000` to see the application running.
+6. Open your browser and navigate to `http://localhost:8000` or click on link that is provided in the terminal to see the application running.
 
 ## Deployment on Render
 
