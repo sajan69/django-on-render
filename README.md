@@ -5,26 +5,47 @@ This is a simple Django project demonstrating how to create a basic web applicat
 ## Project Structure
 
 django_render_demo/
+
 │
-├── hello/                 # Django app
-│   ├── migrations/
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
+
+├── hello/ # Django app
+
+│ ├── migrations/
+
+│ ├── admin.py
+
+│ ├── apps.py
+
+│ ├── models.py
+
+│ ├── tests.py
+
+│ └── views.py
+
 │
-├── mysite/                # Django project
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
+
+├── mysite/ # Django project
+
+│ ├── asgi.py
+
+│ ├── settings.py
+
+│ ├── urls.py
+
+│ └── wsgi.py
+
 │
+
 ├── .gitignore
+
 ├── build.sh
+
 ├── manage.py
+
 ├── README.md
+
 ├── render.yaml
+
 └── requirements.txt
 
 ## Features
